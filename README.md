@@ -1,8 +1,8 @@
 
-# Shopping Cart with Redux and Tailwind CSS
+# Shopping Cart with Context and Tailwind CSS
 
 ## Overview
-This project is a simple implementation of a shopping cart using Redux for state management and Tailwind CSS for styling. It allows users to add items to their cart, remove items, and adjust quantities.
+This project is a simple implementation of a shopping cart using Context for state management and Tailwind CSS for styling. It allows users to add items to their cart, remove items, and adjust quantities.
 
 ## Features
 - Add items to the shopping cart
@@ -37,7 +37,7 @@ This project is a simple implementation of a shopping cart using Redux for state
 - Proceed to checkout when ready.
 
 ## Technologies Used
-- Redux
+- Context
 - React
 - Tailwind CSS
 - JavaScript
